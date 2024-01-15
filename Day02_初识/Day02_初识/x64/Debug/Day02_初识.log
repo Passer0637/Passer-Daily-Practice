@@ -1,0 +1,10 @@
+﻿  初识.cpp
+F:\C++\Day02_初识\Day02_初识\初识.cpp(276,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  F:\C++\Day02_初识\Day02_初识\初识.cpp(276,9):
+  请考虑在格式字符串中使用“%zd”
+  
+F:\C++\Day02_初识\Day02_初识\初识.cpp(277,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  F:\C++\Day02_初识\Day02_初识\初识.cpp(277,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  Day02_初识.vcxproj -> F:\C++\Day02_初识\x64\Debug\Day02_初识.exe
