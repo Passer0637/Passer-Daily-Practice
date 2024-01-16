@@ -1,0 +1,6 @@
+﻿  全局变量声明.cpp
+  初识.cpp
+F:\C++\Day03_初识\Day03_初识\初识.cpp(219,7): warning C4101: “p”: 未引用的局部变量
+F:\C++\Day03_初识\Day03_初识\初识.cpp(220,8): warning C4101: “p2”: 未引用的局部变量
+  正在生成代码...
+  Day03_初识.vcxproj -> F:\C++\Day03_初识\Debug\Day03_初识.exe
