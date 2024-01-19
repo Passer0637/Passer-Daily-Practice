@@ -252,68 +252,67 @@
 //}
 
 //练习六 - 猜数字游戏
-
 //1.自动产生一个 1-100 之间的随机数
 //2.猜数字
 //猜对了 - 恭喜你，游戏结束
 //猜错了 - 告诉你猜大了还是猜小了，继续猜，知道猜对
 //3.游戏一直运行，除非退出游戏
-void menu()//打印菜单函数
-{
-	printf("*******************************\n");
-	printf("*********  1. play  ***********\n");
-	printf("*********  2. exit  ***********\n");
-	printf("*******************************\n");
-}
-void game()//游戏函数
-{
-	//猜数字游戏的实现
-	//1.生成随机数
-	//rand 函数返回了一个 0-32767 之间的数
-	//时间 - 时间戳
-	int ret = rand() % 100  + 1;//%100 的余数是 0-99，然后 +1，范围就是 0-100
-	//printf("%d\n", ret);
-	//2.猜数字
-	while (1)
-	{
-		int guess = 0;
-		printf("请猜数字：");
-		scanf("%d", &guess);
-		if (guess < ret)
-		{
-			printf("猜小了\n");
-		}
-		else if (guess > ret)
-		{
-			printf("猜大了\n");
-		}
-		else
-		{
-			printf("恭喜你猜对了\n");
-			break;
-		}
-	}
-}
-int main()
-{
-	int input = 0;
-	srand((unsigned int)time(NULL));
-	do
-	{
-		menu();//打印菜单
-		printf("请选择：");
-		scanf("%d", &input);
-		switch (input)
-		{
-		case 1:
-			printf("猜数字\n");
-			game();
-			break;
-		default:
-			printf("选择错误，请重新选择\n");
-			break;
-		}
-	} while (input);
-	return 0;
-}
+//void menu()//打印菜单函数
+//{
+//	printf("*******************************\n");
+//	printf("*********  1. play  ***********\n");
+//	printf("*********  2. exit  ***********\n");
+//	printf("*******************************\n");
+//}
+//void game()//游戏函数
+//{
+//	//猜数字游戏的实现
+//	//1.生成随机数
+//	//rand 函数返回了一个 0-32767 之间的数
+//	//时间 - 时间戳
+//	int ret = rand() % 100  + 1;//%100 的余数是 0-99，然后 +1，范围就是 0-100
+//	//printf("%d\n", ret);
+//	//2.猜数字
+//	while (1)
+//	{
+//		int guess = 0;
+//		printf("请猜数字：");
+//		scanf("%d", &guess);
+//		if (guess < ret)
+//		{
+//			printf("猜小了\n");
+//		}
+//		else if (guess > ret)
+//		{
+//			printf("猜大了\n");
+//		}
+//		else
+//		{
+//			printf("恭喜你猜对了\n");
+//			break;
+//		}
+//	}
+//}
+//int main()
+//{
+//	int input = 0;
+//	srand((unsigned int)time(NULL));
+//	do
+//	{
+//		menu();//打印菜单
+//		printf("请选择：");
+//		scanf("%d", &input);
+//		switch (input)
+//		{
+//		case 1:
+//			printf("猜数字\n");
+//			game();
+//			break;
+//		default:
+//			printf("选择错误，请重新选择\n");
+//			break;
+//		}
+//	} while (input);
+//	return 0;
+//}
 
