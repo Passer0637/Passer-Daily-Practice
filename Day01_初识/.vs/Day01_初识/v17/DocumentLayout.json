@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\C\u002B\u002B\\Day01_\u521D\u8BC6\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A76D46FB-6DB2-43C6-BF0F-78FF0C777CEB}|Day01_\u521D\u8BC6\\Day01_\u521D\u8BC6.vcxproj|F:\\C\u002B\u002B\\Day01_\u521D\u8BC6\\Day01_\u521D\u8BC6\\\u521D\u8BC6C\u8BED\u8A00\u3001\u6570\u636E\u7C7B\u578B\u3001\u53D8\u91CF\u5E38\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A76D46FB-6DB2-43C6-BF0F-78FF0C777CEB}|Day01_\u521D\u8BC6\\Day01_\u521D\u8BC6.vcxproj|solutionrelative:Day01_\u521D\u8BC6\\\u521D\u8BC6C\u8BED\u8A00\u3001\u6570\u636E\u7C7B\u578B\u3001\u53D8\u91CF\u5E38\u91CF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "F:\\GitHubCode\\Passer-Daily-Practice\\Day01_\u521D\u8BC6\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "\u521D\u8BC6C\u8BED\u8A00\u3001\u6570\u636E\u7C7B\u578B\u3001\u53D8\u91CF\u5E38\u91CF.cpp",
-              "DocumentMoniker": "F:\\C\u002B\u002B\\Day01_\u521D\u8BC6\\Day01_\u521D\u8BC6\\\u521D\u8BC6C\u8BED\u8A00\u3001\u6570\u636E\u7C7B\u578B\u3001\u53D8\u91CF\u5E38\u91CF.cpp",
-              "RelativeDocumentMoniker": "Day01_\u521D\u8BC6\\\u521D\u8BC6C\u8BED\u8A00\u3001\u6570\u636E\u7C7B\u578B\u3001\u53D8\u91CF\u5E38\u91CF.cpp",
-              "ToolTip": "F:\\C\u002B\u002B\\Day01_\u521D\u8BC6\\Day01_\u521D\u8BC6\\\u521D\u8BC6C\u8BED\u8A00\u3001\u6570\u636E\u7C7B\u578B\u3001\u53D8\u91CF\u5E38\u91CF.cpp",
-              "RelativeToolTip": "Day01_\u521D\u8BC6\\\u521D\u8BC6C\u8BED\u8A00\u3001\u6570\u636E\u7C7B\u578B\u3001\u53D8\u91CF\u5E38\u91CF.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-01-15T11:44:34.324Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
