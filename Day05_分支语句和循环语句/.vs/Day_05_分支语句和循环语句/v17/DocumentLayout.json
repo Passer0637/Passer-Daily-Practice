@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\GitHubCode\\Passer-Daily-Practice\\Day05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1021AFC1-E9BB-4BD2-AAB8-C52AA85B665A}|Day_05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\Day_05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5.vcxproj|F:\\GitHubCode\\Passer-Daily-Practice\\Day05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\Day_05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1021AFC1-E9BB-4BD2-AAB8-C52AA85B665A}|Day_05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\Day_05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5.vcxproj|solutionrelative:Day_05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5.cpp",
-              "DocumentMoniker": "F:\\GitHubCode\\Passer-Daily-Practice\\Day05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\Day_05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5.cpp",
-              "RelativeDocumentMoniker": "Day_05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5.cpp",
-              "ToolTip": "F:\\GitHubCode\\Passer-Daily-Practice\\Day05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\Day_05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5.cpp",
-              "RelativeToolTip": "Day_05_\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5\\\u5206\u652F\u8BED\u53E5\u548C\u5FAA\u73AF\u8BED\u53E5.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-01-19T10:24:09.01Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
