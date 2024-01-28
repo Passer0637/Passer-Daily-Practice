@@ -1,0 +1,6 @@
+﻿  调试.cpp
+F:\C++\Day16_调试\Day16_调试\调试.cpp(78,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  F:\C++\Day16_调试\Day16_调试\调试.cpp(78,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  Day16_调试.vcxproj -> F:\C++\Day16_调试\x64\Debug\Day16_调试.exe
