@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\GitHubCode\\Passer-Daily-Practice\\Day17_\u6570\u636E\u7684\u5B58\u50A8\\",
-  "Documents": [],
+  "WorkspaceRootPath": "F:\\C\u002B\u002B\\Day17_\u6570\u636E\u7684\u5B58\u50A8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE4659-00CE-4EB8-99C4-858F740E3266}|Day17_\u6570\u636E\u7684\u5B58\u50A8\\Day17_\u6570\u636E\u7684\u5B58\u50A8.vcxproj|F:\\C\u002B\u002B\\Day17_\u6570\u636E\u7684\u5B58\u50A8\\Day17_\u6570\u636E\u7684\u5B58\u50A8\\\u6570\u636E\u7684\u5B58\u50A8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34FE4659-00CE-4EB8-99C4-858F740E3266}|Day17_\u6570\u636E\u7684\u5B58\u50A8\\Day17_\u6570\u636E\u7684\u5B58\u50A8.vcxproj|solutionrelative:Day17_\u6570\u636E\u7684\u5B58\u50A8\\\u6570\u636E\u7684\u5B58\u50A8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6570\u636E\u7684\u5B58\u50A8.cpp",
+              "DocumentMoniker": "F:\\C\u002B\u002B\\Day17_\u6570\u636E\u7684\u5B58\u50A8\\Day17_\u6570\u636E\u7684\u5B58\u50A8\\\u6570\u636E\u7684\u5B58\u50A8.cpp",
+              "RelativeDocumentMoniker": "Day17_\u6570\u636E\u7684\u5B58\u50A8\\\u6570\u636E\u7684\u5B58\u50A8.cpp",
+              "ToolTip": "F:\\C\u002B\u002B\\Day17_\u6570\u636E\u7684\u5B58\u50A8\\Day17_\u6570\u636E\u7684\u5B58\u50A8\\\u6570\u636E\u7684\u5B58\u50A8.cpp",
+              "RelativeToolTip": "Day17_\u6570\u636E\u7684\u5B58\u50A8\\\u6570\u636E\u7684\u5B58\u50A8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-29T06:37:23.054Z",
+              "EditorCaption": ""
             }
           ]
         },
